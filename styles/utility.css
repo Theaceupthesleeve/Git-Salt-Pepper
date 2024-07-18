@@ -10,15 +10,21 @@ html{
 
 body{
     background-color: var(--black);
-    color: #ffff;
+    color: var(--white);
 }
 
 :root{
     --red: #ed1c24;
-    --white: #ffff;
-    --black: #0000;  
+    --white: white;
+    --black: black;  
     --green: #28a745;
 }
+/* 
+@font-face {
+    font-family: "apercu light";
+    src: url(../Apercu\ Font\ Family/);
+} */
+
 
 .d-flex{
     display: flex;
@@ -29,6 +35,6 @@ body{
 }
 
 .bg-red{
-    background-color: red;
+    background-color: var(--red);
 }
 
