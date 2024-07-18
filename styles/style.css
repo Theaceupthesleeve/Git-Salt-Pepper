@@ -1,54 +1,46 @@
-
 /* ---------------------- NAVBAR STARTED -------------------------*/
-/* 
-li{
-    list-style: none;
-    display: inline-block;
+
+
+.logo-img{
+    width: 165px;
 }
 
-li a{
-    color: #ffff;
-    font-size: 18px;
-    margin-left: 30px;
-}
-
-a{
-    text-decoration: none;
+.nav-item{
+    font-size: 2rem;
 }
 
 .navbar{
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 15px;
 }
 
-.nav-div{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
+.franchise-btn{
+    background-color: transparent;
+    border: 1px solid #ffff;
+    padding: 20px 25px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+
 }
 
-.navbar-logo{
-    margin: 20px;
+.order-btn{
+    background-color: #ed1c24;
+    border: none;
+    padding: 20px 25px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+
 }
 
-button{
-    color: #ffff;
+.circle-btn{
+    background-color: #ffffff;
+    padding: 10px 10px;
+    border-radius: 30px;
+    color: #ed1c24;
 }
 
-.logo{
-    width: 165px;
-
-} */
-
-
-
-
-
-
-
-
-
+.arrow-icon{
+    font-size: 1.8rem;
+}
 
 
 
