@@ -101,7 +101,7 @@
 /* //////////////////////// SECTION TWO ///////////////////////// */
 
 .sec-2-container{
-    margin-top: 10rem;
+    margin-top: 20rem;
 }
 
 .sec2-heading{
@@ -115,7 +115,177 @@
     color: rgb(139, 139, 139);
 }
 
+.sec-2-container2 h1{
+    /* font-weight: 10px; */
+    color: #ed1c24;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
+    
+}
+
+.sec-2-container2{
+    margin-right: 60%;
+    font-size: 1.5rem;
+}
+
+.sec-2-container2 h1{
+    font-size: 1.8rem;
+}
+
+.sec-2-container2 p{
+    color: gray;
+    font-size: 1.7rem;
+}
+
+.sec-2-containerpic{
+    /* float: right; */
+    margin-top: -10rem;
+    margin-left: 50rem;
+    width: 540px;
+}
+
+.section-two{
+    margin-top: 6rem;
+    margin-left: 15rem;
+}
+
+.sec-2-container2 b{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
+
+
+.getdirct-btn{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 17px 25px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+
+}
+
+.sec-2-container3{
+    font-size: 1.5rem;
+    margin-top: -138px;
+}
+
+.sec-2-containerpic2{
+    margin-left: 15rem;
+    width: 520px;
+}
+
+
+.sec-2-container-p2 h1{
+    font-size: 1.8rem;
+    color: #ed1c24;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.sec-2-container-p2 b{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
+
+.sec-2-container-p2 p{
+    color: gray;
+    font-size: 1.7rem;
+}
+
+.sec-2-container-p2 h2{
+    font-size: 2.4rem;
+}
+
+.section-two-3{
+    margin-top: 6rem;
+    margin-left: 15rem;
+}
+
+.sec-2-container-p3 h1{
+    font-size: 1.8rem;
+    color: #ed1c24;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sec-2-container-p3 h2{
+    font-size: 2.4rem;
+}
+
+.sec-2-container-p3 b{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
+
+.sec-2-container-p3 p{
+    color: gray;
+    font-size: 1.7rem;
+}
+
+.sec-2-containerpic3{
+    margin-left: 15rem;
+    width: 520px;
+}
+
+
+
+/*-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ SECTION -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/*/
+
+.section1{
+    background-color: #1f1f1f;
+}
+
+.section1-heading{
+    margin-top: 5rem;
+}
+
+.section1-heading h1{    
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 5.3rem;
+}
+
+.section1-heading h2{
+    font-size: 5.6rem;
+}
+
+.section1-pic1{
+    width: 350px;
+}
+
+.img-section{
+    margin-left: 10%;
+}
+
+
+.sec1-getdirct-btn{
+    background-color: transparent;
+    color: #ed1c24;
+    border: 1px solid white;
+    padding: 15px 10px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+
+}
+
+.img1-des h1{
+    font-size: 1.2rem;
+    color: #ed1c24;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.img1-des h2{
+    font-size: 2.4rem;
+}
+
+.img1-des b{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+.img1-des p{
+    color: gray;
+    font-size: 1.5rem;
+}
 
 
 
