@@ -94,6 +94,19 @@ body{
     text-align: center;
 }
 
+.mr-back{
+    margin-right: 100px;
+}
+
+.mt-down{
+    margin-top: 5rem;
+}
+
+.pt-down{
+    padding-top: 3rem
+}
+
+
 .ml-center{
     margin-left: 20%;
 }
@@ -125,6 +138,11 @@ body{
 .text-align{
     margin-left: 30%;
     gap: 100px;
+}
+
+
+.box-padding{
+    padding: 40px 90px;
 }
 
 
